@@ -1,0 +1,6 @@
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\bin\Debug\AppTest2.exe.config
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\bin\Debug\AppTest2.exe
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\bin\Debug\AppTest2.pdb
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\obj\Debug\AppTest2.exe
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\obj\Debug\AppTest2.pdb
+c:\users\liam.wood\documents\visual studio 2015\Projects2\AppTest2\AppTest2\obj\Debug\AppTest2.csprojResolveAssemblyReference.cache
