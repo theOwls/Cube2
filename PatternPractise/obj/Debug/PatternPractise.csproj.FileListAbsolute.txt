@@ -1,0 +1,6 @@
+c:\users\liam.wood\documents\visual studio 2015\Projects2\PatternPractise\PatternPractise\bin\Debug\PatternPractise.exe.config
+C:\Users\liam.wood\Documents\Visual Studio 2015\Projects2\PatternPractise\PatternPractise\bin\Debug\PatternPractise.exe
+C:\Users\liam.wood\Documents\Visual Studio 2015\Projects2\PatternPractise\PatternPractise\bin\Debug\PatternPractise.pdb
+C:\Users\liam.wood\Documents\Visual Studio 2015\Projects2\PatternPractise\PatternPractise\obj\Debug\PatternPractise.csprojResolveAssemblyReference.cache
+C:\Users\liam.wood\Documents\Visual Studio 2015\Projects2\PatternPractise\PatternPractise\obj\Debug\PatternPractise.exe
+C:\Users\liam.wood\Documents\Visual Studio 2015\Projects2\PatternPractise\PatternPractise\obj\Debug\PatternPractise.pdb
